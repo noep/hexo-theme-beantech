@@ -20,7 +20,7 @@ java 1.5버전부터(상당히 오래전부터) 추가된 열거형 enum에 대�
 public static final int JANUARY = 1;
 public static final int FEBRUARY = 2;
 ```
-같은 형태의 것들을 좀 더 간결하게 다룰 수 있어 코드 가독성을 향상시칸다.
+같은 형태의 것들을 좀 더 간결하게 다룰 수 있어 코드 가독성을 향상시킨다.
 
 ```
 public enum TestEnum {
