@@ -54,8 +54,9 @@ anchorjs: true                          # if you want to customize anchor. check
 # Baidu Analytics
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-#ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
-#ga_domain: yoursite
+# Format: UA-xxxxxx-xx
+ga_track_id: 'UA-111562479-1'
+ga_domain: https://noep.github.io
 
 
 # Sidebar settings
